@@ -51,4 +51,4 @@ echo "https://$HOSTNAME"
 
 > ⚠️ **These commands return bare hostnames without a scheme.** Always prepend `https://` when presenting URLs to the user. For example, report `https://myapp.azurewebsites.net`, never `myapp.azurewebsites.net`.
 
-Present a summary including all service URLs as fully-qualified `https://` links. Do NOT end your response without including them.
+Present a summary including all service URLs as fully-qualified `https://` links. Do NOT end your response without including them.
