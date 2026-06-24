@@ -15,4 +15,4 @@
 az group delete --name <rg-name> --yes
 ```
 
-⚠️ Permanently deletes ALL resources in the group.
+⚠️ Permanently deletes ALL resources in the group.
