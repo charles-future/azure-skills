@@ -92,4 +92,4 @@ azd up --no-prompt
 azd down --force --purge
 ```
 
-⚠️ Permanently deletes ALL resources including databases and Key Vaults.
+⚠️ Permanently deletes ALL resources including databases and Key Vaults.
