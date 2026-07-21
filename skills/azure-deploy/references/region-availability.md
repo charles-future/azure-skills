@@ -96,4 +96,3 @@ These services are available in all major Azure regions — no special considera
 ---
 
 **Last updated:** 2026-03-03
-
