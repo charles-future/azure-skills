@@ -42,4 +42,4 @@ services:
 
 ## References
 
-- [Region Availability](region-availability.md)
+- [Region Availability](region-availability.md)

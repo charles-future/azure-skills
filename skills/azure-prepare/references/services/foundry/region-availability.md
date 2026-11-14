@@ -20,4 +20,4 @@
 |------|--------------------|
 | Full model availability | `eastus`, `eastus2`, `swedencentral` |
 | Europe compliance | `swedencentral`, `westeurope` |
-| With SWA | `eastus2` (only overlap) |
+| With SWA | `eastus2` (only overlap) |
